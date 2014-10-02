@@ -59,3 +59,14 @@ github "xquartz",     "1.2.1"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
+
+github "caffeine"
+github "chrome"
+github "dropbox"
+github "flux"
+github "gitx"
+github "iterm2"
+github "notational_velocity"
+github "osx"
+github "sizeup"
+github "vagrant"
