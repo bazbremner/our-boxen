@@ -44,4 +44,9 @@ class people::bazbremner {
   }
 
   $home = "/Users/${::luser}"
+
+  repository { "${home}/.emacs.d":
+    source => 'git@github.com:bazbremner/dot-emacs.git',
+  }
+
 }
