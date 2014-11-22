@@ -1,0 +1,15 @@
+---
+ruby::rbenv_plugins:
+  ruby-build:
+    ensure: v20141113
+    source: sstephenson/ruby-build
+  rbenv-default-gems:
+    ensure: v1.0.0
+    source: sstephenson/rbenv-default-gems
+  rbenv-gem-rehash:
+    ensure: v1.0.0
+    source: sstephenson/rbenv-gem-rehash
+
+ruby::default_gems:
+  - 'bundler'
+  
