@@ -14,6 +14,8 @@ class people::bazbremner {
   include sizeup
   include vagrant
 
+  ruby::version { '2.1.5': }
+
   package {
     [
       'bash-completion',
