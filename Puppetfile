@@ -70,3 +70,6 @@ github "notational_velocity"
 github "osx"
 github "sizeup"
 github "vagrant"
+github "virtualbox", "1.0.13"
+
+

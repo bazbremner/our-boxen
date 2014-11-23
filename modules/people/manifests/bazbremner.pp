@@ -13,6 +13,7 @@ class people::bazbremner {
   include osx::finder::unhide_library
   include sizeup
   include vagrant
+  include virtualbox
 
   ruby::version { '2.1.5': }
 
