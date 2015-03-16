@@ -1,12 +1,12 @@
 GITHUBTARBALL
   remote: boxen/puppet-boxen
   specs:
-    boxen (3.10.1)
+    boxen (3.10.2)
 
 GITHUBTARBALL
   remote: boxen/puppet-brewcask
   specs:
-    brewcask (0.0.4)
+    brewcask (0.0.6)
 
 GITHUBTARBALL
   remote: boxen/puppet-caffeine
@@ -46,7 +46,7 @@ GITHUBTARBALL
 GITHUBTARBALL
   remote: boxen/puppet-git
   specs:
-    git (2.7.1)
+    git (2.7.5)
 
 GITHUBTARBALL
   remote: boxen/puppet-gitx
@@ -71,7 +71,7 @@ GITHUBTARBALL
 GITHUBTARBALL
   remote: boxen/puppet-iterm2
   specs:
-    iterm2 (1.2.2)
+    iterm2 (1.2.4)
 
 GITHUBTARBALL
   remote: boxen/puppet-nginx
@@ -131,7 +131,7 @@ GITHUBTARBALL
 GITHUBTARBALL
   remote: boxen/puppet-vagrant
   specs:
-    vagrant (3.2.0)
+    vagrant (3.3.0)
 
 GITHUBTARBALL
   remote: boxen/puppet-virtualbox
@@ -159,8 +159,8 @@ GITHUBTARBALL
     module_data (0.0.3)
 
 DEPENDENCIES
-  boxen (= 3.10.1)
-  brewcask (= 0.0.4)
+  boxen (= 3.10.2)
+  brewcask (= 0.0.6)
   caffeine (>= 0)
   chrome (>= 0)
   dnsmasq (= 2.0.1)
@@ -168,7 +168,7 @@ DEPENDENCIES
   flux (>= 0)
   foreman (= 1.2.0)
   gcc (= 2.2.0)
-  git (= 2.7.1)
+  git (= 2.7.5)
   gitx (>= 0)
   go (= 2.1.0)
   homebrew (= 1.11.2)
