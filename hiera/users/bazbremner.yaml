@@ -1,7 +1,7 @@
 ---
 ruby::rbenv_plugins:
   ruby-build:
-    ensure: v20150130
+    ensure: v20161115
     source: sstephenson/ruby-build
   rbenv-default-gems:
     ensure: v1.0.0
