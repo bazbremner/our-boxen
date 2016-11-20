@@ -15,7 +15,7 @@ class people::bazbremner {
   include vagrant
   include virtualbox
 
-  ruby::version { '2.1.5': }
+  ruby::version { '2.3.2': }
 
   package {
     [
