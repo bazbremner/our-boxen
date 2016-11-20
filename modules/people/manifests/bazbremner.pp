@@ -23,6 +23,7 @@ class people::bazbremner {
       'cask',
       'emacs',
       'gpg',
+      'go',
       'jq',
       'sipcalc',
       'the_silver_searcher',
